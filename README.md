@@ -1,5 +1,6 @@
 Welcome 👋
-My projects are divided and put in organizations for easy access.
+
+Apart from the pinned projects, you can find my other projects in organizations.
 
 - [Django Projects](https://github.com/Mobile-Dev-II-Inclass-Demos)
 - React Projects
