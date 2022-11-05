@@ -1,4 +1,4 @@
-- 👋 Tesfatsion Shiferaw (Github - tesfa-eth)
+Welcome 👋
 - 👀 Senior at Bennington College
 - 🌱 Study Computer Science and Mathematics
 - 💞️ I’m looking to collaborate on ...
