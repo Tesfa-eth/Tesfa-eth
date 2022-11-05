@@ -6,6 +6,7 @@ Apart from the pinned projects, you can find my other projects in organizations.
 - React Projects
 - Python Projects
 - Andriod Mobile App
+- Data Analaysis
 
 <!---
 Tesfa-eth/Tesfa-eth is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
