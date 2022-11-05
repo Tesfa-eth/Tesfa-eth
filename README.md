@@ -1,7 +1,7 @@
 Welcome 👋
 My projects are divided and put in organizations for easy access.
 
-- Django Projects
+- [Django Projects](https://github.com/Mobile-Dev-II-Inclass-Demos)
 - React Projects
 - Python Projects
 - Andriod Mobile App
