@@ -5,7 +5,7 @@ In addition to the pinned projects, you can find my other projects in organizati
 - [Django Projects](https://github.com/Mobile-Dev-II-Inclass-Demos)
 - React Projects
 - [Python and Data Analaysis Projects](https://github.com/orgs/Python-And-Data-Analaysis-Projects/repositories)
-- Andriod Mobile App
+- [Andriod Mobile App](https://github.com/orgs/Andriod-mobile-dev/repositories)
 - Data Analaysis
 - [C# projects](https://github.com/orgs/C-sharp-Projects-org/repositories)
 
