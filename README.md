@@ -2,7 +2,7 @@ Welcome to Tesfa-eth 👋
 
 # Github profile guide
 
-In addition to the pinned projects, you can find my other projects in the following organizations.
+In addition to the pinned projects below, you can find my other projects in the following organizations.
 
 - [Django Projects](https://github.com/orgs/Django-projects-tesfa/repositories)
 - [Data Analaysis Projects](https://github.com/orgs/Python-And-Data-Analaysis-Projects/repositories)
