@@ -1,6 +1,6 @@
 Welcome 👋
 
-In addition to the pinned projects, you can find my other projects in organizations.
+In addition to the pinned projects, you can find my other projects in the following organizations.
 
 - [Django Projects](https://github.com/Mobile-Dev-II-Inclass-Demos)
 - React Projects
